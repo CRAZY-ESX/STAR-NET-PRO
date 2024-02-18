@@ -23,7 +23,7 @@ example:
 > python  STAR-NET-PRO.py -s 123.45.67.89 -t 135
 
 #  STAR-NET-PRO
-<img src="https://i.postimg.cc/2STp3M1d/pxfuel-1.jpg" width="1800px" height="1998px"/>
+<img src="https://i.postimg.cc/YC0RfsXz/Picsart-24-02-19-03-40-15-314.jpg" width="720px" height="766px"/>
 
 # Installation
 ```pkg update && pkg upgrade
