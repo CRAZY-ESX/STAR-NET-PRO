@@ -28,7 +28,7 @@ example:
 # Installation
 ```pkg update && pkg upgrade
 
-git clone https://github.com/TermuxHackz/ STAR-NET-PRO
+git clone https://github.com/CRAZY-ESX/STAR-NET-PRO.git
 
 cd  STAR-NET-PRO
 
@@ -38,5 +38,7 @@ python  STAR-NET-PRO.py
 > python  STAR-NET-PRO.py -s [IP address] -t 135
 
 example: python STAR-NET-PRO.py -s 127.0.0.1 -t 135
+
+<h1><b>OUR TELEGRAM CHANNEL:- https://t.me/THEANON69</b></h1>
 
 =============================
